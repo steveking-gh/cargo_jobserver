@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
+        "bootout",
         "FIONREAD",
         "jobserver",
         "mkfifo",
-        "pgrep"
+        "pgrep",
+        "plutil"
     ]
 }
